@@ -2,11 +2,6 @@ import profilePhoto from '../photo.jpg';
 import conventionalPic from '../conventionalpics_kaushal-133.jpg';
 
 let imageData = [
-   {
-       "id":"M1",
-"image_url": profilePhoto,
-"title":"image not available"
-    },
 
     {
         "id":"M2",
